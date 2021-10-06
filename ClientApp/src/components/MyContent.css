@@ -1,0 +1,39 @@
+﻿.maindiv {
+  text-align: center;
+}
+
+.embed-video {
+  width: 360px;
+  height: 245px;
+  /*float: left;*/
+}
+
+.text-footer {
+  width: 460px;
+  height: 245px;
+  padding-left: 5%;
+}
+
+.modal-width {
+  max-height: 400 !important;
+  max-width: 460 !important;
+  min-height: 245px !important;
+  min-width: 433px !important;
+}
+
+.div-modal-body {
+  height: 340px;
+  padding: 7% 5% 5% 13%;
+}
+
+p {
+  float: left;
+}
+
+.card-img-size {
+  max-width: 286px !important;
+  max-height: 214.5px !important;
+}
+.btn-close-align {
+  width: 60%;
+}
